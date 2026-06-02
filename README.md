@@ -24,9 +24,9 @@ This repository is organized into four main sections:
 
 ## Branding Materials
 
-[Branding Activity PDF](branding/Maturan_Activity1_compressed.pdf)
+[Branding Activity PDF](brandingkit/Maturan_Activity1_compressed.pdf)
 
-[Brand Hex Codes](branding/brand-hex-codes.txt)
+[Brand Hex Codes](brandingkit/brand-hex-codes.txt)
 
 ### Reflection
 
