@@ -16,7 +16,7 @@ Hello! I am **Khezia**, an aspiring business leader and creative entrepreneur wi
 This repository is organized into four main sections:
 
 - `/brandingkit` - Color sheets and brand identity materials
-- `/visuals` - Logo and banner 
+- `/visuals` - Public material and banner 
 - `/docs` - Infographics, brief reports, and written design documents
 - `/media` - Videos, prototype links, and interactive media references
 
@@ -30,7 +30,7 @@ This repository is organized into four main sections:
 
 ### Reflection
 
-For the branding materials, I focused on creating a personal identity that reflects creativity, strategy, and purpose. The brand kit and color references help make the portfolio feel more consistent and professional, while also showing how visual choices can support a clear personal message.
+For my branding materials, I finalized the color palette and fonts that would guide the visual identity of my succeeding projects. I chose a whimsical, feminine, and earthy style inspired by vintage fantasy storybooks because I wanted my portfolio to reflect my personal preferences while still looking readable and professional. My goal was to create a brand identity that feels soft, imaginative, and personal without becoming too playful or distracting.
 
 ---
 
@@ -52,7 +52,7 @@ For the visual graphics, I used layout, color, and typography to create designs 
 
 ### Reflection
 
-For the infographic output, I focused on arranging information in a clear and readable format. The design uses visual structure to make the content easier to follow, helping viewers understand the message without feeling overwhelmed by too much information.
+For my infographic output, I focused on arranging information in a clear and readable way while still following my chosen color palette and whimsical aesthetic. Although I personally enjoy maximalist designs, I made sure that each visual element still supported the topic and did not overpower the message. I wanted the final design to feel expressive and detailed, but also organized enough for viewers to understand the information easily.
 
 ---
 
@@ -66,13 +66,15 @@ For the infographic output, I focused on arranging information in a clear and re
 
 ### Reflection
 
-For the media-based outputs, I emphasized presentation, self-expression, and audience experience. The video introduction and prototype document show how digital media can make a portfolio more personal, interactive, and complete.
+For my media-based outputs, I emphasized presentation, self-expression, and audience experience. In my video introduction, I followed my main goal of whimsical storytelling by introducing myself through a story-style AVP format, using smooth Canva transitions even though it was my first time working with that approach. For the prototype, I wanted to represent myself not only through direct descriptions, but also through the different media, interests, and inspirations that I enjoy, so I designed it to be as interactive and meaningful as possible through its pages, visuals, and overall flow.
 
 ---
 
 ## Overall Portfolio Reflection
 
-This master portfolio brings together the major outputs from my preliminary GE-IT Skills lessons into one organized and live-hosted professional hub. Through this project, I learned how branding, visual design, documentation, and media can work together to create a stronger digital identity. The repository also demonstrates my ability to organize creative and academic work professionally using GitHub and GitHub Pages.
+This master portfolio brings together my preliminary GE-IT Skills outputs into one organized and live-hosted professional hub. Through this project, I was able to see how my branding choices, visual designs, infographic, media output, and prototype all connect to one personal identity centered on whimsical storytelling, feminine earthy tones, and vintage fantasy-inspired visuals. It helped me become more intentional with my design decisions, especially in balancing creativity with readability, organization, and professionalism.
+
+This portfolio also allowed me to practice presenting myself not only through words, but through colors, fonts, layouts, media, and interactive design choices. I learned that a strong digital portfolio is not just a collection of outputs, but a curated space that communicates who I am, what I value creatively, and how I can use digital tools to express ideas clearly and meaningfully.
 
 ---
 
