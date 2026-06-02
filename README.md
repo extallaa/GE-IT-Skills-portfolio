@@ -15,8 +15,8 @@ Hello! I am **Khezia**, an aspiring business leader and creative entrepreneur wi
 
 This repository is organized into four main sections:
 
-- `/brandingkit` - Logo, headers, color sheets, and brand identity materials
-- `/visuals` - Social graphics, banners, and visual communication outputs
+- `/brandingkit` - Color sheets and brand identity materials
+- `/visuals` - Logo and banner 
 - `/docs` - Infographics, brief reports, and written design documents
 - `/media` - Videos, prototype links, and interactive media references
 
