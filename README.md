@@ -48,7 +48,7 @@ For the visual graphics, I used layout, color, and typography to create designs 
 
 ## Documents and Infographics
 
-[Infographic PDF](docs/Maturan_Infographic.pdf)
+![Infographic](docs/Maturan_Infographic.png)
 
 ### Reflection
 
