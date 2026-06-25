@@ -92,7 +92,7 @@ Format: Output in clear Markdown with exactly three action phases under the head
 | V3 | Added a specific role, local context, strict constraints, 300-word limit, and exact Markdown action phases. | Target hit. The prompt is now localized, professional, realistic, and focused on barangay-level waste management in Davao City. |
 
 #### 3. Visual Branding Asset
-![Logo](aiexplorer/ai_logo.png)
+![Logo](aiexplorer/ailogo.png)
 
 - **Engine Used:** ChatGPT Image Generator
 - **Visual Prompt:** "A flat minimalist vector icon of a small barangay hall roof, a recycling symbol, and a clean trash bin representing proper waste management in Davao City. Use clean geometric shapes, no text, no people, no 3D effects, no shadows, and no realistic textures. Use a limited color palette of green, blue, and white. The icon must be centered on a plain background and suitable for a professional LGU environmental communication project."
@@ -164,9 +164,11 @@ For policymakers and LGU department heads, the charts show why waste management 
 ---
 ## Overall Portfolio Reflection
 
-This master portfolio brings together my preliminary GE-IT Skills outputs into one organized and live-hosted professional hub. Through this project, I was able to see how my branding choices, visual designs, infographic, media output, and prototype all connect to one personal identity centered on whimsical storytelling, feminine earthy tones, and vintage fantasy-inspired visuals. It helped me become more intentional with my design decisions, especially in balancing creativity with readability, organization, and professionalism.
+This master portfolio brings together my preliminary GE-IT Skills outputs into one organized and live-hosted professional hub. Through this project, I was able to see how my branding materials, visual designs, infographic, media outputs, prototype, and AI Explorer activities all connect to one personal identity centered on whimsical storytelling, feminine earthy tones, and vintage fantasy-inspired visuals. More than just collecting my outputs, this portfolio helped me become more intentional with my creative decisions, especially in balancing self-expression with readability, organization, and professionalism.
 
-This portfolio also allowed me to practice presenting myself not only through words, but through colors, fonts, layouts, media, and interactive design choices. I learned that a strong digital portfolio is not just a collection of outputs, but a curated space that communicates who I am, what I value creatively, and how I can use digital tools to express ideas clearly and meaningfully.
+I also learned that digital tools can help me present ideas in a more meaningful and effective way. From choosing colors and fonts to designing visuals, creating media-based outputs, verifying AI-generated information, and analyzing data through charts, each activity helped me understand a different side of communication and digital creativity. The AI-related tasks especially taught me that technology is useful, but it still needs human judgment. AI can organize information, generate ideas, and support analysis, but it is still important to check facts, question exaggerated claims, and connect the results to real people and real situations.
+
+Overall, this portfolio represents my growth as a student who is still learning how to use design, media, research, and technology with purpose. It shows not only what I can create, but also how I think, reflect, and improve my work. I realized that a strong digital portfolio is not only about making outputs look beautiful. It is also about creating a clear, personal, and professional space that communicates who I am, what I value creatively, and how I can use digital tools responsibly to express ideas.
 
 ## Live Site
 
