@@ -1,9 +1,7 @@
-# GE-IT-Skills-portfolio
+
 # Khezia Veronica C. Maturan | Professional Design Portfolio
 
-## Branding Tagline
-
-**Blending creativity, strategy, and purpose to build ideas that bloom.**
+## Blending creativity, strategy, and purpose to build ideas that bloom.**
 
 ## Professional Bio
 
