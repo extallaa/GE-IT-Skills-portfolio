@@ -11,12 +11,13 @@ Hello! I am **Khezia**, an aspiring business leader and creative entrepreneur wi
 
 ## Portfolio Directory
 
-This repository is organized into four main sections:
+This repository is organized into five main sections:
 
 - `/brandingkit` - Color sheets and brand identity materials
 - `/visuals` - Public material and banner 
 - `/docs` - Infographics, brief reports, and written design documents
 - `/media` - Videos, prototype links, and interactive media references
+- `/aiexplorer` - Logos, graphs, and educational resources
 
 ---
 
