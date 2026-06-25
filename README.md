@@ -1,9 +1,6 @@
 
 # Khezia Veronica C. Maturan | Professional Design Portfolio
-
-## Blending creativity, strategy, and purpose to build ideas that bloom.
-
-## Professional Bio
+## *Blending creativity, strategy, and purpose to build ideas that bloom*
 
 Hello! I am **Khezia**, an aspiring business leader and creative entrepreneur with an interest in graphic design, organization, leadership, communication, and personal branding. This portfolio gathers my preliminary GE-IT Skills outputs into one live-hosted professional hub, showcasing how I use creativity, strategy, layout, and digital tools to present meaningful ideas in a clear and professional way.
 
